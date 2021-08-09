@@ -4,4 +4,4 @@ jdcal==1.4.1
 openpyxl==2.6.2
 PyQt5==5.12.2
 PyQt5-sip==4.19.17
-pywin32==224
+pywin32==301
